@@ -6,3 +6,7 @@ utilizando o framework de testes Cypress. O teste abrange desde o login até a f
 verificando a ordenação dos produtos, a adição de produtos ao carrinho, o processo de checkout e a
 validação do valor total da compra.
 
+> Teste na pasta
++ Cypress
+  + e2e/login
+
